@@ -44,6 +44,6 @@ body {
     /* Scrollable contents if viewport is shorter than content. */
 }
 
-nav {
-    background-color: aqua;
+navb {
+    color: aqua;
 }
