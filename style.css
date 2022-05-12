@@ -43,3 +43,7 @@ body {
     overflow-y: auto;
     /* Scrollable contents if viewport is shorter than content. */
 }
+
+nav {
+    background-color: aqua;
+}
