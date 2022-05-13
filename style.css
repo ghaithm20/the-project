@@ -1,5 +1,6 @@
 body {
     background-color: #fbfbfb;
+   
 }
 
 @media (min-width: 991.98px) {
@@ -44,6 +45,6 @@ body {
     /* Scrollable contents if viewport is shorter than content. */
 }
 
-navb {
-    color: aqua;
+nav {
+    height: 60px;
 }
